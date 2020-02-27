@@ -1,7 +1,7 @@
 # flowers-mazes-and-fractals
 This prototype can be used to 'grow' flower-like and tree-like structures using Lindenmayer systems with python and postscript.
 
-a) To specify the Lindenmayer system, you first need to specify the alphabet, the axiom and a set of writing rules in the form of <symbol> -> <chain of symbol>. For example, one can use this very simply alphabet with only one rule
+a) To specify the Lindenmayer system, you first need to specify the alphabet, the axiom and a set of writing rules in the form of symbol-> chain of symbols. For example, one can use this very simply alphabet with only one rule
   
  s -> F
  F -> FF-F
