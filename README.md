@@ -18,7 +18,7 @@ Some examples:
 
 $ python lindenmayer.py buisson.json 5
 
-$ python lindenmayer.py plante.json 5
+$ python lindenmayer.py plante.json 7
 
 $ python lindenmayer.py hexamaze.json 6
 
